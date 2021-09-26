@@ -96,14 +96,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://44.192.81.238:8888/mylandmarktech/repository/boa-release/</url>
+	      <name>Ebony Releases Nexus Repository</name>
+	      <url>http://18.117.251.77:8081/repository/landmark-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.192.81.238:8888/mylandmarktech/repository/boa-snapshot/</url>
+	      <name>Ebony Snapshot Nexus Repository </name>
+	      <url>http://18.117.251.77:8081/repository/landmark-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
